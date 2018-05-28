@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url('./fonts/icomoon.woff') format('woff'),
+         url('./fonts/icomoon.eot') format('eoc'),
+         url('./fonts/icomoon.ttf') format('ttf'),
+         url('./fonts/icomoon.svg') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: 'icomoon';
+    background-image: url(./maitian.jpg);
+}

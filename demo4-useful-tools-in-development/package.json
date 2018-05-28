@@ -1,0 +1,11 @@
+{
+  "name": "webpack-demo1",
+  "version": "1.0.0",
+  "scripts": {
+    "start:old": "webpack --config webpack.config.js",
+    "watch": "webpack --watch",
+    "start:dev": "webpack-dev-server --open",
+    "start:server": "node server.js"
+  },
+  "license": "MIT"
+}

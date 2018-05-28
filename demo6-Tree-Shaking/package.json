@@ -1,0 +1,8 @@
+{
+  "name": "tree-shaking",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "license": "MIT"
+}
